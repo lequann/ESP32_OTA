@@ -1,4 +1,5 @@
 {
-	"versionCode" : 2,
-	"fileName" : "firmware_v2.bin"
+	"versionCode" : "1.0.1",
+	"fileName" : "firmware_v2.bin",
+	"esp32_mac": "0.123"
 }
